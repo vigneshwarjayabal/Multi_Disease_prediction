@@ -4,6 +4,4 @@ numpy
 streamlit-lottie
 streamlit-option_menu
 scikit-learn
-time
-request
-json
+
