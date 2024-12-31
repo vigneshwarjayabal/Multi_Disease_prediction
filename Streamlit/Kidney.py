@@ -6,7 +6,7 @@ import json
 import time
 from streamlit_lottie import st_lottie
 
-model = pickle.load(open("kidney.pkl", "rb"))
+model = pickle.load(open("Kidney.pkl", "rb"))
 def main():
     def load_lottieurl(url: str):
         r = requests.get(url)
