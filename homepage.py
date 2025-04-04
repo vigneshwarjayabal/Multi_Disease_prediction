@@ -90,7 +90,7 @@ How It Works
 elif select == "Parkinsons":
     import Parkinson
     Parkinson.main()
-elif select =="Kidney":
+elif select == "Kidney":
     import Kidney
     Kidney.main()
 elif select == "Liver":
