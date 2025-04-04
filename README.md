@@ -1,1 +1,1 @@
-streamlit deplyed link:http://3.109.56.127:8501/
+streamlit deplyed link: https://multidiseaseprediction-280798.streamlit.app/
